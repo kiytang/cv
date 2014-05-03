@@ -40,7 +40,7 @@ The course has allowed me to accumulate a strong foundation and I am now looking
 
 
 ###Makers Academy
-####September-December 2013
+####August-November 2013
 
 * 12-week bootcamp, with 12-hour days
 * Full-stack web development

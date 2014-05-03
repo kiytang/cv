@@ -8,7 +8,7 @@ The course has allowed me to accumulate a strong foundation and I am now looking
 
 | [Set Forget it](https://github.com/kiytang/sifiapp) | [Boris Bikes](https://github.com/kiytang/boris_bikes_refactored) | [Sushi Aficionados](https://github.com/kiytang/sushi) |
 |:--------------- |:-------- |:--------- |
-| Ruby-on-Rails prototype developed in 10 days that helps improve event organization. | Practicing Object-Oriented-Programming, the goal was to build a simple version of the Travel for London Cycle Hire scheme. | Using the Ruby-on-Rails framework, the goal was to replicate the functionality of the Pinterest application, so that users can pin their most interesting sushi findings |
+| Ruby-on-Rails prototype developed in 10 days with [Daniel Linde](https://github.com/danlinde), [Dave Wood](https://github.com/davwood), [Vinay Gupta](https://github.com/vinayngupta) and [Xaoting Wright](https://github.com/Ting0807). The focus of the app was to help improve event organization. | Practicing Object-Oriented-Programming, the goal was to build a simple version of the Travel for London Cycle Hire scheme. | Using the Ruby-on-Rails framework, the goal was to replicate the functionality of the Pinterest application, so that users can pin their most interesting sushi findings |
 
 
 

@@ -45,7 +45,6 @@ The course has allowed me to accumulate a strong foundation and I am now looking
 * 12-week bootcamp, with 12-hour days
 * Full-stack web development
 * Focus on Agile practices, especially TDD and pair programming
-* Pair programming and teamwork
 
 ##Contact
 

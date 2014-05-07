@@ -27,15 +27,15 @@ The course has allowed me to accumulate a strong foundation and I am now looking
 
 ###Testing:
 * Test­ driven development
-* Unit testing with RSpec and Jasmine
+* Unit testing with RSpec
 * Integration testing with Capybara
 * Behaviour driven development with Cucumber
-* FactoryGirl fixtures and Shoulda matchers
+
 
 ###Front-End:
 * HTML5 and ERB
 * CSS3 and Sass
-* JavaScript, jQuery and CoffeeScript
+* JavaScript
 * Twitter Bootstrap and Zurb-Foundation
 
 

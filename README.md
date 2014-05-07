@@ -48,4 +48,4 @@ The course has allowed me to accumulate a strong foundation and I am now looking
 
 ##Contact
 
-* My email is kiybeta@gmail.com.
+* My email is kiybeta -at- gmail -dot- com.
